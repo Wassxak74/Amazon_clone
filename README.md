@@ -1,2 +1,2 @@
 # Amazon_clone
-this is my basic project
+this is my basic (github)
